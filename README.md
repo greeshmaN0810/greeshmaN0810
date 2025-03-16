@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Greeshma Namana! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Data+Professional+%7C+Cloud+%7C+BI+%7C+SQL;Passionate+About+Data+Engineering+%26+Machine+Learning;Transforming+Data+Into+Insights+%7C+AWS+%7C+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Data+Professional+%7C+Cloud+%7C+BI+%7C+ML;SQL+%7C+Python+%7C+Azure+%7C+Power+BI;Data+Storyteller+%7C+Tech+Enthusiast+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 🎓 **MS in Business Analytics & Information Systems** | University of South Florida  
 💡 **Data Enthusiast** | 4+ Years in SQL, Python, Cloud, BI & Analytics  
 📊 **Passionate About:** Data Engineering, Big Data, AI, and Cloud Solutions  
-🚀 **Currently Exploring:** Advanced Machine Learning & Large-Scale Data Pipelines  
 
 ---
 
@@ -24,30 +23,6 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### **🚀 Projects**
-🔹 **Netflix Data Pipeline Optimization** | **Azure, Databricks, PySpark**  
-🔹 **Scalable Retail Data Warehouse & Reporting** | **Snowflake, SQL, Power BI**  
-🔹 **Revenue Insights & Customer Engagement** | **Tableau, Python**  
-🔹 **Loan Repayment Prediction** | **Machine Learning, Python**  
-
-💻 **Explore more:** [My GitHub Repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 ---
 
