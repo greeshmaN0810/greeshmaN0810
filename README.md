@@ -23,7 +23,7 @@
 ---
 
 ### **📫 Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GreeshmaNamana-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/greeshma-namana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GreeshmaNamana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/greeshma-namana/)
 [![Email](https://img.shields.io/badge/Email-Greeshma008.namana%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:greeshma008.namana@gmail.com)
 
 ⭐ **Always Learning | Always Building | Always Exploring!** 🌟
