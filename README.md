@@ -13,15 +13,6 @@
 
 ---
 
-### **🛠️ Tech Stack**
-🌐 **Languages:** Python(pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow), SQL, Java, R, JavaScript  
-☁️ **Cloud & Big Data:** Azure (Data Factory, Databricks, Synapse, Data Lake), AWS, Apache Spark, Delta Lake, BigQuery  
-📊 **Data Visualization:** Power BI, Tableau, Looker Studio, Qlik Sense  
-💾 **Databases & ETL:** PostgreSQL, MySQL, SQL Server, MongoDB, Apache Airflow  
-
-
----
-
 ### **📫 Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GreeshmaNamana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/greeshma-namana/)
 [![Email](https://img.shields.io/badge/Email-Greeshma008.namana%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:greeshma008.namana@gmail.com)
