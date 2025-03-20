@@ -14,8 +14,8 @@
 ---
 
 ### **🛠️ Tech Stack**
-🌐 **Languages:** Python, SQL, Java, R, JavaScript  
-☁️ **Cloud & Big Data:** Azure, AWS, Snowflake, Databricks  
+🌐 **Languages:** Python(pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow), SQL, Java, R, JavaScript  
+☁️ **Cloud & Big Data:** Azure (Data Factory, Databricks, Synapse, Data Lake), AWS, Apache Spark, Delta Lake, BigQuery  
 📊 **Data Visualization:** Power BI, Tableau, Looker Studio, Qlik Sense  
 💾 **Databases & ETL:** PostgreSQL, MySQL, SQL Server, MongoDB, Apache Airflow  
 
